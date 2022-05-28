@@ -6,10 +6,9 @@
 # To check whether two words are anagrams
 def find_anagram(word, anagram):
 
-    word = str(input("Enter a word: "))
-    anagram = str(input("Enter another word: "))
-
-    if sorted(word) == sorted(anagram):
+    if (sorted(word) == sorted(anagram)):
         return True
     else:
         return False
+
+print(find_anagram("stone", "notes"))
