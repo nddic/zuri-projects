@@ -33,4 +33,4 @@ Bob.get_score()
 
 x = Student("Peter", 34, ["UI", "UX"],  )
 x
-#Unfinished code. I do not understand it well, my laptop battery is almost dead, no light.
+#Unfinished code. I do not understand it well.
