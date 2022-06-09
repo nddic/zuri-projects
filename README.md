@@ -1,2 +1,4 @@
 # zuri-projects
-Hi. This is my public repository for all my Zuri Training projects
+Hi. This repository holds code for:
+  The Reading Text files task.
+  Finding Anagram task.
